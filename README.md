@@ -1,2 +1,3 @@
 # survival_model
-First attempt
+
+This was my first attempt at running the Cox Proportional Hazard regression model
